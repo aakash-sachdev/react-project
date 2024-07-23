@@ -30,6 +30,7 @@ function App() {
       <button onClick={addValue}> Increase value </button>
       <br/>
       <button onClick={subValue}> Decrease value </button>
+      <br/>
     </>
   )
 }
